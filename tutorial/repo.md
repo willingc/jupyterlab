@@ -49,7 +49,7 @@ rebuild the npm package and server extension every time you check out or merge
 After building the docs (`npm run docs`), `docs/index.html` is the entry
 point to the documentation.
 
-!['JupyterLab repository structure']('_static/jlab.png')
+![JupyterLab repository structure]('_static/jlab.png')
 
 
 ## Development Quickstart
