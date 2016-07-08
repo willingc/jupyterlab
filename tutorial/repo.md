@@ -17,6 +17,8 @@ Th npm package and the Python package are both named `jupyterlab`.
 * `typings/`: type definitions for external libraries that typescript needs.
 * `scripts/`: various scripts that the npm commands invoke.
 
+![JupyterLab repository structure](_static/jlab.png)
+
 ### Examples: `examples/`
 
 The `examples/` directory contains stand-alone examples of components,
@@ -48,9 +50,6 @@ rebuild the npm package and server extension every time you check out or merge
 
 After building the docs (`npm run docs`), `docs/index.html` is the entry
 point to the documentation.
-
-![JupyterLab repository structure](_static/jlab.png)
-
 
 ## Development Quickstart
 
